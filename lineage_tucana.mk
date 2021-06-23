@@ -15,3 +15,8 @@ PRODUCT_NAME := lineage_tucana
 PRODUCT_DEVICE := tucana
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
+
+# Project Sakura stuff
+EXTRA_FOD_ANIMATIONS := true
+SAKURA_OFFICIAL:= true
+SAKURA_MAINTAINER:= SanyaPilot
