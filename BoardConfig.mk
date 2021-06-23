@@ -62,5 +62,8 @@ ODM_MANIFEST_TUCANA_FILES := $(DEVICE_PATH)/configs/hidl/manifest_tucana.xml
 # NFC
 TARGET_USES_NQ_NFC := true
 
+# ProtonAOSP blur
+TARGET_USES_BLUR := true
+
 # Inherit from the proprietary version
 include vendor/xiaomi/tucana/BoardConfigVendor.mk
